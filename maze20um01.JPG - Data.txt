@@ -1,0 +1,24 @@
+Time taken (millisecs): 4411
+Black:
+    Pixels:       3659970.0
+    Domains:      1811.0
+    Average Size: 2020.97
+    Area:         349.042%
+    Bubbles:      606.0
+    Stripes:      1205.0
+    Bub/Str:      0.502905
+    Bub Area/Str Area: 0.0165363
+
+White:
+    Pixels:       3624810.0
+    Domains:      4541.0
+    Average Size: 798.24
+    Area:         345.689%
+    Bubbles:      1423.0
+    Stripes:      3118.0
+    Bub/Str:      0.456382
+    Bub Area/Str Area: 0.0391858
+
+Ratio B/W Pixels: 1.0097
+Noise:            -594.731%
+Net magnetization: 0.0335321
